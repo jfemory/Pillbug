@@ -37,10 +37,10 @@ On The Fly rebootstraping | Pending
 ## Wishlist  
 The things we need to do more research:
 
-Rockpro64: the current worker node of choice.
-Nvidia Jetson: SBC with integrated GPU, useful for GPU testing.
-Google Coral SBC/USB-C: For adding TPU support
-Multi Ethernet SBC: For masterNode of a compute module.
+Rockpro64: the current worker node of choice.  
+Nvidia Jetson: SBC with integrated GPU, useful for GPU testing.  
+Google Coral SBC/USB-C: For adding TPU support.  
+Multi Ethernet SBC: For masterNode of a compute module.  
 
 
 
